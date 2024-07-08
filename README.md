@@ -1,2 +1,5 @@
-# waveorb-sanity
-Waveorb sanity plugin
+# Waveorb sanity
+
+Waveorb sanity plugin.
+
+Created by [Eldøy Projects](https://eldoy.com)
