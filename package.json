@@ -1,0 +1,25 @@
+{
+  "name": "unsanity",
+  "version": "0.1.0",
+  "description": "Unsanity unofficial sanity library",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon -q --exec spekk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldoy/unsanity.git"
+  },
+  "author": "Vidar Eldøy <vidar@eldoy.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eldoy/unsanity/issues"
+  },
+  "homepage": "https://github.com/eldoy/unsanity#readme",
+  "dependencies": {
+    "@sanity/image-url": "^1.0.2"
+  },
+  "devDependencies": {
+    "spekk": "^0.2.2"
+  }
+}
