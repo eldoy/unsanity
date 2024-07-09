@@ -6,8 +6,17 @@ module.exports = function (config = {}) {
     return imageUrlBuilder(config).image(source)
   }
 
+  var components = {
+    types: {
+      image: function ({ value }) {
+        var imageURL = urlFor(value.asset).toString()
+        return `<img src="${imageURL}" />`
+      }
+    }
+  }
+
   function toHTML(blocks) {
-    return portableText.toHTML(blocks)
+    return portableText.toHTML(blocks, { components })
   }
 
   return { urlFor, toHTML }

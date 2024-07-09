@@ -1,0 +1,968 @@
+[
+  {
+    "_type": "article",
+    "slug": {
+      "current": "5-grunner-til-a-vurdere-smart-varmestyring-pa-hytta",
+      "_type": "slug"
+    },
+    "publishedAt": "2024-07-09T14:51:00.000Z",
+    "_rev": "9InmsDqKvs8Ix8K0Cj4wqn",
+    "title": "5 grunner til å vurdere smart varmestyring på hytta",
+    "body": [
+      {
+        "_key": "2af609318f2c",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-9bf4d916c7e6100fc7bad9b72b546e306d7a0caf-650x400-jpg",
+          "_type": "reference"
+        }
+      },
+      {
+        "_type": "block",
+        "children": [
+          {
+            "_type": "span",
+            "marks": ["em", "strong"],
+            "text": "Styr temperaturen med mobilen, kom fram til ferdig oppvarmet hytte gjennom hele vinteren – og unngå frosne rør og vannskader. Hyttelivet skal være enkelt og komfortabelt, og med Nobø Energy Control løfter du hyttekosen til nye høyder.",
+            "_key": "30ebe52f482f0"
+          }
+        ],
+        "markDefs": [],
+        "style": "h5",
+        "_key": "779b4f8d50b1"
+      },
+      {
+        "markDefs": [],
+        "style": "normal",
+        "_key": "2f81f47a9dea",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "7538bd4250d40",
+            "_type": "span",
+            "marks": [],
+            "text": "- Flesteparten av kundene som spør oss om smart varmestyring på hytta, er motivert av tanken om å kunne komme frem til en ferdig oppvarmet hytte på fredagskveldene, forteller Arne Hoseth, produktsjef i Nobø, et av Norges ledende selskaper på nettopp varmestyring."
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "children": [
+          {
+            "_key": "d71679ae50bc0",
+            "_type": "span",
+            "marks": [],
+            "text": "Han anbefaler hyttekunder å gå for Nobø Energy Control, en løsning for elektrisk varme som er utviklet for å gi full kontroll over all varmestyring i hytta."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal",
+        "_key": "dc7f36b66f5c"
+      },
+      {
+        "markDefs": [
+          {
+            "_key": "6bfb7f6fc871",
+            "_type": "link",
+            "href": "https://nobo.no/5-gode-grunner-til-velge-smart-varmestyring"
+          }
+        ],
+        "style": "normal",
+        "_key": "0f51464410f8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "ca7682217fc60",
+            "_type": "span",
+            "marks": [],
+            "text": "- Etter en stund oppdager nemlig de fleste at"
+          },
+          {
+            "marks": ["6bfb7f6fc871"],
+            "text": "smart varmestyring",
+            "_key": "ca7682217fc61",
+            "_type": "span"
+          },
+          {
+            "marks": [],
+            "text": "har langt flere fordeler enn de trodde på forhånd, sier han.",
+            "_key": "ca7682217fc62",
+            "_type": "span"
+          }
+        ]
+      },
+      {
+        "style": "h4",
+        "_key": "c7d4cdcd6ece",
+        "_type": "block",
+        "children": [
+          {
+            "text": "Her er Arnes 5 viktigste grunner til at du skal velge smart varmestyring på hytta:",
+            "_key": "a92fd397e98b0",
+            "_type": "span",
+            "marks": ["strong"]
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "markDefs": [],
+        "style": "normal",
+        "_key": "5d9236f4fdc0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "813cb60bace2",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ]
+      },
+      {
+        "markDefs": [],
+        "style": "h3",
+        "_key": "e2e1332aa7f0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a3369425f4340",
+            "_type": "span",
+            "marks": [],
+            "text": "1. Du kommer frem til en god og varm hytte"
+          }
+        ]
+      },
+      {
+        "markDefs": [],
+        "style": "normal",
+        "_key": "4b46825d72d4",
+        "_type": "block",
+        "children": [
+          {
+            "text": "Uka har vært lang, kjøreturen oppover mot fjellet likeså, og du kommer endelig fram til hytta en sen og iskald januarkveld. Da fortjener du å slenge deg ned i sofaen – uten ytterklærne på.",
+            "_key": "3e0eb50379440",
+            "_type": "span",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "markDefs": [],
+        "style": "normal",
+        "_key": "519ed062f62f",
+        "_type": "block",
+        "children": [
+          {
+            "marks": [],
+            "text": "- Med mobilappen Nobø Energy Control skrur du opp varmen noen timer før du reiser, enkelt og greit, sier Arne Hoseth.",
+            "_key": "33036deadcb30",
+            "_type": "span"
+          }
+        ]
+      },
+      {
+        "markDefs": [],
+        "style": "h3",
+        "_key": "eb9b3f30606f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "430857c323db0",
+            "_type": "span",
+            "marks": [],
+            "text": "2. Det er enkelt å montere selv"
+          }
+        ]
+      },
+      {
+        "_key": "36ec87bdaba3",
+        "_type": "block",
+        "children": [
+          {
+            "_type": "span",
+            "marks": ["ed14c544c224"],
+            "text": "Panelovnene fra Nobø",
+            "_key": "1f48cd22a5980"
+          },
+          {
+            "text": "er laget for det røffe klimaet i Norge med hyppige temperaturendringer og kalde vintre – noe som er spesielt viktig om hytta ligger på høyfjellet.",
+            "_key": "1f48cd22a5981",
+            "_type": "span",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "href": "https://nobo.no/panelovner",
+            "_key": "ed14c544c224"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "markDefs": [],
+        "style": "normal",
+        "_key": "c6f889dcc44d",
+        "_type": "block",
+        "children": [
+          {
+            "marks": [],
+            "text": "- Dessuten er det enkelt å sette de opp på egenhånd, og like enkelt å få de til å «snakke» med mobilappen, forteller han:",
+            "_key": "bd93a0f8d5a20",
+            "_type": "span"
+          }
+        ]
+      },
+      {
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal",
+        "_key": "2235607f9818",
+        "_type": "block",
+        "children": [
+          {
+            "text": "Monter panelovnene og koble Nobø Hub til internett på hytta.",
+            "_key": "7373b2804dfb0",
+            "_type": "span",
+            "marks": []
+          }
+        ],
+        "level": 1
+      },
+      {
+        "_type": "block",
+        "children": [
+          {
+            "_key": "5c9ad78fb0710",
+            "_type": "span",
+            "marks": [],
+            "text": "Last ned Nobø Energy Control-appen til mobilen din."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal",
+        "_key": "cc154d8b8b03"
+      },
+      {
+        "children": [
+          {
+            "_key": "66b26de1f6fa0",
+            "_type": "span",
+            "marks": [],
+            "text": "Koble Nobø Hub til de varmeovnene du ønsker, og styr ovnene fra hvor som helst i verden."
+          }
+        ],
+        "level": 1,
+        "listItem": "number",
+        "markDefs": [],
+        "style": "normal",
+        "_key": "af85d052d994",
+        "_type": "block"
+      },
+      {
+        "markDefs": [
+          {
+            "href": "https://nobo.no/gulvvarme",
+            "_key": "dc719d3a47ae",
+            "_type": "link"
+          },
+          {
+            "_key": "0e6201bb7246",
+            "_type": "link",
+            "href": "https://nobo.no/produkt/nobo-ntb-2r-hvit"
+          }
+        ],
+        "style": "normal",
+        "_key": "c0e6ca132d09",
+        "_type": "block",
+        "children": [
+          {
+            "marks": [],
+            "text": "Et tips! Har du",
+            "_key": "78e465d002760",
+            "_type": "span"
+          },
+          {
+            "_type": "span",
+            "marks": ["dc719d3a47ae"],
+            "text": "elektrisk gulvvarme",
+            "_key": "78e465d002761"
+          },
+          {
+            "_key": "78e465d002762",
+            "_type": "span",
+            "marks": [],
+            "text": "fra før? Da kan en elektriker enkelt koble til"
+          },
+          {
+            "marks": ["0e6201bb7246", "underline"],
+            "text": "«Nobø NTB 2R» gulvtermostat",
+            "_key": "78e465d002763",
+            "_type": "span"
+          },
+          {
+            "_key": "78e465d002764",
+            "_type": "span",
+            "marks": [],
+            "text": "og knytte gulvvarmen opp mot Nobø Energy Control. Ta kontakt med din elektriker for et tilbud."
+          }
+        ]
+      },
+      {
+        "style": "normal",
+        "_key": "106b16267ae7",
+        "_type": "block",
+        "children": [
+          {
+            "marks": [],
+            "text": "",
+            "_key": "13e793202a9c",
+            "_type": "span"
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "282fb91e8956",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-485f576b68dbadd1bfb533719bac1a66dbf5782c-650x400-jpg",
+          "_type": "reference"
+        }
+      },
+      {
+        "style": "h3",
+        "_key": "b1e579dda24e",
+        "_type": "block",
+        "children": [
+          {
+            "text": "3. Full kontroll fra mobilen",
+            "_key": "1b7eddfdd7790",
+            "_type": "span",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "style": "normal",
+        "_key": "6bd8e487c089",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "1c933a38b28a0",
+            "_type": "span",
+            "marks": [],
+            "text": "Den klassiske metoden for å gjøre ankomsten til hytta litt mer trivelig har vært å benytte løsninger som «Ring hytta varm». Om du velger å oppgradere til en moderne løsning, benytter du den eksisterende internettlinjen."
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "5fc1770a9ddc",
+        "_type": "block",
+        "children": [
+          {
+            "marks": [],
+            "text": "- Da kan du gjøre mer enn å skru på en varmeovn. Løsningen lar deg regulere flere panelovner og dermed styre varmen i flere rom. Hvis det ikke er internett på hytta fra før, kan du bruke mobilt bredbånd, forklarer produktsjefen.",
+            "_key": "9d2494afd2fa0",
+            "_type": "span"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "style": "normal",
+        "_key": "8e760c3e15bb",
+        "_type": "block",
+        "children": [
+          {
+            "_type": "span",
+            "marks": [],
+            "text": "Alt styres fra den brukervennlige",
+            "_key": "8d8dd020971b0"
+          },
+          {
+            "_type": "span",
+            "marks": ["a3eaeaa2373e"],
+            "text": "Nobø Energy Control-appen",
+            "_key": "8d8dd020971b1"
+          },
+          {
+            "marks": [],
+            "text": "",
+            "_key": "8d8dd020971b2",
+            "_type": "span"
+          },
+          {
+            "_key": "8d8dd020971b3",
+            "_type": "span",
+            "marks": ["49e5f2285e90"],
+            "text": "som er kåret best i test på tek.no"
+          },
+          {
+            "text": ":",
+            "_key": "8d8dd020971b4",
+            "_type": "span",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "href": "https://www.tek.no/samletest/i/4qXjqR/panelovn-med-wifi-styring",
+            "_key": "a3eaeaa2373e",
+            "_type": "link"
+          },
+          {
+            "href": "https://www.tek.no/samletest/i/4qXjqR/panelovn-med-wifi-styring",
+            "_key": "49e5f2285e90",
+            "_type": "link"
+          }
+        ]
+      },
+      {
+        "markDefs": [],
+        "style": "normal",
+        "_key": "5e792b6b9e47",
+        "_type": "block",
+        "children": [
+          {
+            "text": "Sett ukeprogrammer",
+            "_key": "528d7d2c61410",
+            "_type": "span",
+            "marks": []
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet"
+      },
+      {
+        "_type": "block",
+        "children": [
+          {
+            "_key": "76701cc4eec50",
+            "_type": "span",
+            "marks": [],
+            "text": "Lag forskjellige varmesoner"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal",
+        "_key": "2ef7121a1ef2"
+      },
+      {
+        "markDefs": [],
+        "style": "normal",
+        "_key": "66b881f55f06",
+        "_type": "block",
+        "children": [
+          {
+            "_type": "span",
+            "marks": [],
+            "text": "Fjernstyr hytta uansett hvor du er",
+            "_key": "d255294a4cb00"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet"
+      },
+      {
+        "_type": "block",
+        "children": [
+          {
+            "text": "4. Alltid riktig temperatur",
+            "_key": "8443a0ac9b210",
+            "_type": "span",
+            "marks": []
+          }
+        ],
+        "markDefs": [],
+        "style": "h3",
+        "_key": "25ff42c2bb39"
+      },
+      {
+        "markDefs": [],
+        "style": "normal",
+        "_key": "5659a922453f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "da05188e97ee0",
+            "_type": "span",
+            "marks": [],
+            "text": "Temperatursvingninger ute gjør det vanskelig å finne riktig temperatur inne. Blir det kaldt, skrur vi opp varmen på panelovnene, med det resultat at vi kanskje må lufte etter en stund."
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "children": [
+          {
+            "marks": [],
+            "text": "- Dette er typisk for mange norske hytter hvor en har gamle ovner. Vi anbefaler at du investerer i panelovner som er såkalt smarte, ovner som «lærer» av omgivelsene og holder temperaturen stabil. Med Nobø panelovner får du den mest nøyaktige termostaten på markedet, sier Arne Hoseth.",
+            "_key": "df26d51125900",
+            "_type": "span"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal",
+        "_key": "3acd905b548a"
+      },
+      {
+        "_type": "block",
+        "children": [
+          {
+            "text": "5. Du sparer penger!",
+            "_key": "8878987b19670",
+            "_type": "span",
+            "marks": []
+          }
+        ],
+        "markDefs": [],
+        "style": "h3",
+        "_key": "ae9e73ea7053"
+      },
+      {
+        "children": [
+          {
+            "_type": "span",
+            "marks": [],
+            "text": "Smart varmestyring gjør at du unngår unødvendig strømforbruk og like vel beholder et lunt og behagelig inneklima. Du velger selv hvilke rom eller soner som skal være oppvarmet til hvilken tid, og kan senke temperaturen i huset når det er natt. Når du ikke er på hytta kan du la det stå på en ørliten lunk, og på den måten unngå frosne rør.",
+            "_key": "cbc8e18e10ef0"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal",
+        "_key": "04e442e58fa1",
+        "_type": "block"
+      },
+      {
+        "_key": "a2bdbcb066dc",
+        "_type": "block",
+        "children": [
+          {
+            "_type": "span",
+            "marks": [],
+            "text": "– Våre erfaringer viser at du kan spare inntil 25 prosent av oppvarmingskostnadene dine ved å installere",
+            "_key": "e1c27940cc590"
+          },
+          {
+            "marks": ["1af55ec5300f"],
+            "text": "smart varmestyring",
+            "_key": "e1c27940cc591",
+            "_type": "span"
+          },
+          {
+            "marks": [],
+            "text": ", avslutter produktsjef Arne Hoseth.",
+            "_key": "e1c27940cc592",
+            "_type": "span"
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "1af55ec5300f",
+            "_type": "link",
+            "href": "https://nobo.no/5-gode-grunner-til-velge-smart-varmestyring"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_type": "block",
+        "children": [
+          {
+            "text": "Start ditt nye hytteliv med Nobø Energy Control",
+            "_key": "e3dbe95c3bb40",
+            "_type": "span",
+            "marks": ["strong"]
+          }
+        ],
+        "markDefs": [],
+        "style": "h5",
+        "_key": "56d29a5f8eb3"
+      },
+      {
+        "style": "normal",
+        "_key": "b0cd689bcdad",
+        "_type": "block",
+        "children": [
+          {
+            "marks": [],
+            "text": "",
+            "_key": "c18950911c16",
+            "_type": "span"
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "markDefs": [],
+        "style": "normal",
+        "_key": "d8da1222a504",
+        "_type": "block",
+        "children": [
+          {
+            "text": "",
+            "_key": "906fffb73747",
+            "_type": "span",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "_createdAt": "2024-07-09T14:36:52.000Z",
+    "_updatedAt": "2024-07-09T18:48:49.000Z",
+    "id": "ce62cac3-0a92-4928-be29-f8c9566e942f",
+    "created_at": "2024-07-09T18:48:49.814Z",
+    "updated_at": "2024-07-09T18:48:49.814Z"
+  },
+  {
+    "slug": {
+      "current": "dansk-ferieparadis-med-nobo-varme",
+      "_type": "slug"
+    },
+    "publishedAt": "2024-07-10T19:12:00.000Z",
+    "_rev": "9InmsDqKvs8Ix8K0CjACuX",
+    "_createdAt": "2024-07-09T19:16:35.000Z",
+    "_type": "article",
+    "title": "Dansk ferieparadis med Nobø-varme",
+    "body": [
+      {
+        "_type": "image",
+        "asset": {
+          "_type": "reference",
+          "_ref": "image-6a6922196c86e46b055f0629fc2e9cc38673238d-1920x1280-jpg"
+        },
+        "_key": "f48fa0ebcb03"
+      },
+      {
+        "markDefs": [],
+        "_type": "block",
+        "style": "h4",
+        "_key": "ff046769a8f1",
+        "children": [
+          {
+            "marks": [],
+            "text": "Høy kvalitet, energieffektivitet og justeringsmuligheter var viktig da Lalandia skulle velge oppvarmingsløsning til sitt nye ferie- og opplevelsessenter i Søndervig.",
+            "_key": "030df0b168c00",
+            "_type": "span"
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "_key": "f7d3564bcaad",
+        "children": [
+          {
+            "text": "Omgitt av vakker vestjysk natur, og med Vesterhavet som nærmeste nabo, blir Lalandia Søndervig et unikt ferieparadis når det står ferdig sommeren 2022. Vi snakker tropisk vannland, hyggelige restauranter, lekeplasser og totalt 440 moderne feriehus – som alle er solgt og revet bort fra markedet. Feriehusene blir utgangspunktet for opplevelsene som venter i Lalandia, og arkitektene lyttet til tilbakemeldinger fra mer enn én million gjester i andre Lalandiasentre før de tegnet og planla husene. Nobø leverer oppvarmingsløsningene i det nye feriesenteret, og salgssjef Brian Trolle kan fortelle om en prosess hvor ingenting har vært overlatt til tilfeldighetene: - I mars 2019 fikk vi muligheten til å komme med et løsningsforslag som kunne leve opp til de høye kravene Lalandia stiller. For å være sikker på at løsningen vår skulle fungere, tilbød vi i første omgang å levere all oppvarming til prøvehusene deres. På den måten kunne vi vise frem produktene våre i praksis, forklarer han.",
+            "_key": "930ace40fbbe0",
+            "_type": "span",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_key": "e75cec6f63c8",
+        "markDefs": [],
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "marks": [],
+            "_key": "c62b638293fa",
+            "text": "",
+            "_type": "span"
+          }
+        ]
+      },
+      {
+        "_key": "8866d13142d9",
+        "children": [
+          {
+            "_key": "57c24966e9dc0",
+            "_type": "span",
+            "marks": [],
+            "text": "Nobø leverer en komplett varmeløsning"
+          }
+        ],
+        "markDefs": [],
+        "_type": "block",
+        "style": "h3"
+      },
+      {
+        "markDefs": [],
+        "_type": "block",
+        "style": "normal",
+        "_key": "b0278fd7ed35",
+        "children": [
+          {
+            "_key": "517dbb06fc720",
+            "_type": "span",
+            "marks": [],
+            "text": "Alle produktene leveres gjennom Lemvigh Müller, som har vært en tett samarbeidspartner i prosjektet."
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "_key": "9da68693a21f",
+        "children": [
+          {
+            "marks": [],
+            "text": "- Prosessen har vært lang, og slett ikke uten utfordringer underveis, men til slutt landet vi på en komplett løsning som Lalandia er godt fornøyde med. Vi skal levere oppvarmingsløsningene både til etappe 1 og etappe 2 av byggeprosjektet, sier Brian Trolle. Dette er en av våre aller største prosjektleveranser hvor vi står for NUC18 varmekabler, NTB-2R gulvtermostater, panelovner, samt Nobø Hubs (se faktaboks). Vi er svært stolte, sier Brian med et stort smil.",
+            "_key": "e178a2d692d20",
+            "_type": "span"
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "style": "normal",
+        "children": [
+          {
+            "marks": [],
+            "_key": "d1abe2565d77",
+            "text": "",
+            "_type": "span"
+          }
+        ],
+        "_key": "a6664ce7db52",
+        "markDefs": [],
+        "_type": "block"
+      },
+      {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-e5869936e20c694142a13e41b6960956214eb40e-3000x2000-jpg",
+          "_type": "reference"
+        },
+        "_key": "21f7e846ce43"
+      },
+      {
+        "_type": "block",
+        "style": "h3",
+        "_key": "b95b5809cfdf",
+        "children": [
+          {
+            "marks": [],
+            "text": "En fordel å velge Nobø – for sluttkunde og installatør",
+            "_key": "b67ab346b32f0",
+            "_type": "span"
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "markDefs": [],
+        "_type": "block",
+        "style": "normal",
+        "_key": "4c4dcfb81e06",
+        "children": [
+          {
+            "_type": "span",
+            "marks": [],
+            "text": "I Danmark er prisen på elektrisitet høyere enn i Norge, og det er blant annet forbud mot å bruke panelovner i bolighus med mindre elektrisiteten kommer fra gjenvinningsanlegg, og at den gjeldende lovgivningen om oppvarming overholdes.",
+            "_key": "a3ef4f9fb43f0"
+          }
+        ]
+      },
+      {
+        "style": "normal",
+        "_key": "13f0e546661d",
+        "children": [
+          {
+            "text": "- Men våre produkter har markedets laveste standby-forbruk, og når du i tillegg kan styre all varme fra én plass er det klart at utgiftene holdes nede og det blir mer energieffektivt. Hvordan vi får til dette, er fordi panelovnene og gulvvarmen er knyttet sammen via Nobø HUB. Via appen Nobø Energy Control velger man eksakt varme. Her kan man enkelt lage soner i hvert enkelt rom, og deretter bestemme temperaturen etter ønsket bruk, forteller Brian entusiastisk.",
+            "_key": "f9ac0bfd6caf0",
+            "_type": "span",
+            "marks": []
+          }
+        ],
+        "markDefs": [],
+        "_type": "block"
+      },
+      {
+        "markDefs": [],
+        "_type": "block",
+        "style": "normal",
+        "_key": "97e7ae1a43f6",
+        "children": [
+          {
+            "_key": "7b9f02c744d30",
+            "_type": "span",
+            "marks": [],
+            "text": "Ved at Lalandia i Søndervig styrer varmen på denne måte, optimeres oppholdet til gjestene, samtidig som det reduserer varmeforbruket. Alle husene kan kontrolleres direkte fra resepsjonen, dermed kan en også sørge for at huset er oppvarmet når gjestene sjekker inn. Og om kvelden vil varmen automatisk senkes til en behagelig nattemperatur. I tillegg kan hver enkelt gjest også justere varmen individuelt i feriehuset via radiator eller gulvvarmetermostat, forklarer Trolle."
+          }
+        ]
+      },
+      {
+        "style": "normal",
+        "_key": "9e0e93372592",
+        "children": [
+          {
+            "text": "Jacob Olsen, som arbeider som installatør på Lalandia-prosjektet, kan fortelle at Nobø er svært gode produkter å jobbe med.",
+            "_key": "ff15468756c90",
+            "_type": "span",
+            "marks": []
+          }
+        ],
+        "markDefs": [],
+        "_type": "block"
+      },
+      {
+        "_key": "40d3bcfb66de",
+        "children": [
+          {
+            "_key": "fdc6ed4eb3d80",
+            "_type": "span",
+            "marks": [],
+            "text": "- Nobø-produktene har høy kvalitet. Når vi programmerer og setter opp Nobø Huben i de ulike sommerhusene, er det logisk og lett å følge instruksene. Alle de ulike komponentene kommunisere så godt sammen, dvs. – gulvvarme, panelovner, termostater og Nobø Hub. Produktene fra Nobø er svært brukervennlige, noe som også ganger oss installatører ved at vi ikke får mange veiledningsspørsmål av kunde i etterkant."
+          }
+        ],
+        "markDefs": [],
+        "_type": "block",
+        "style": "normal"
+      },
+      {
+        "markDefs": [],
+        "_type": "block",
+        "style": "normal",
+        "children": [
+          {
+            "_key": "33b9acd4effa",
+            "text": "",
+            "_type": "span",
+            "marks": []
+          }
+        ],
+        "_key": "dc5de74f4d51"
+      },
+      {
+        "_key": "2ece412000f5",
+        "_type": "image",
+        "asset": {
+          "_type": "reference",
+          "_ref": "image-0c7a9bfd28fac14d23a16b31cbfa12d98d6caa6b-3000x2000-jpg"
+        }
+      },
+      {
+        "style": "h3",
+        "_key": "40af5c7afc50",
+        "children": [
+          {
+            "_key": "7eb29cb52f380",
+            "_type": "span",
+            "marks": [],
+            "text": "Hva er Nobø HUB og Nobø Energy Control?"
+          }
+        ],
+        "markDefs": [],
+        "_type": "block"
+      },
+      {
+        "markDefs": [],
+        "_type": "block",
+        "style": "normal",
+        "_key": "6af767b70049",
+        "children": [
+          {
+            "_type": "span",
+            "marks": [],
+            "text": "Nobø Hub er hjertet i det testvinnende varmestyringssystemet, som sørger for at alle elementene snakker sammen. Via appen Nobø Energy Control, vil en enkelt kunne styre panelovner, gulvvarme og andre smarte løsninger i et og samme oversiktlige og brukervennlige system.",
+            "_key": "276400c0f8a20"
+          }
+        ]
+      },
+      {
+        "style": "normal",
+        "level": 1,
+        "listItem": "bullet",
+        "_key": "a23dda0c012c",
+        "children": [
+          {
+            "text": "Testvinnende løsning for",
+            "_key": "433df20b60e00",
+            "_type": "span",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "marks": ["fd39aac21aee"],
+            "text": "smart varmestyring",
+            "_key": "433df20b60e01"
+          }
+        ],
+        "markDefs": [
+          {
+            "_type": "link",
+            "href": "https://www.tek.no/samletest/i/4qXjqR/panelovn-med-wifi-styring",
+            "_key": "fd39aac21aee"
+          }
+        ],
+        "_type": "block"
+      },
+      {
+        "markDefs": [],
+        "_type": "block",
+        "style": "normal",
+        "level": 1,
+        "listItem": "bullet",
+        "_key": "ae26f808292a",
+        "children": [
+          {
+            "_key": "98d5b92f1e740",
+            "_type": "span",
+            "marks": [],
+            "text": "Trådløs kommunikasjon med alle tilknyttende enheter"
+          }
+        ]
+      },
+      {
+        "_key": "577a7c5cb6f5",
+        "children": [
+          {
+            "_key": "4b4f41ba79bf0",
+            "_type": "span",
+            "marks": [],
+            "text": "Nobø Energy Control – intuitiv og forståelig app"
+          }
+        ],
+        "markDefs": [],
+        "_type": "block",
+        "style": "normal",
+        "level": 1,
+        "listItem": "bullet"
+      },
+      {
+        "listItem": "bullet",
+        "_key": "9011bba8b7f9",
+        "children": [
+          {
+            "text": "Perfekt for fjernstyring av hytta/sommersted",
+            "_key": "f341d18e38bc0",
+            "_type": "span",
+            "marks": []
+          }
+        ],
+        "markDefs": [],
+        "_type": "block",
+        "style": "normal",
+        "level": 1
+      }
+    ],
+    "_updatedAt": "2024-07-09T19:16:35.000Z",
+    "id": "3264f9fc-98b3-4067-8b42-a886b851d1e4",
+    "created_at": "2024-07-09T19:16:36.159Z",
+    "updated_at": "2024-07-09T19:16:36.159Z"
+  }
+]
