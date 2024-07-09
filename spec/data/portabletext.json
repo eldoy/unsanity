@@ -1,0 +1,114 @@
+{
+  "_updatedAt": "2024-07-09T12:51:07.000Z",
+  "description": [
+    {
+      "_key": "be02feadef60",
+      "_type": "block",
+      "children": [
+        {
+          "_type": "span",
+          "marks": [],
+          "text": "Ben som gjør panelovnen frittstående og den kan dermed flyttes dit det er behov.",
+          "_key": "27f3a017dedd0"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "children": [
+        {
+          "_key": "9ebc3569e4ce0",
+          "_type": "span",
+          "marks": [],
+          "text": "Panelovnen kan flyttes dit det er behov"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal",
+      "_key": "ae318c6eed17",
+      "_type": "block"
+    },
+    {
+      "children": [
+        {
+          "_type": "span",
+          "marks": [],
+          "text": "Sikker innfesting",
+          "_key": "515cde47226d0"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal",
+      "_key": "c63c54b800b0",
+      "_type": "block"
+    },
+    {
+      "markDefs": [],
+      "style": "normal",
+      "_key": "592470dbe670",
+      "_type": "block",
+      "children": [
+        {
+          "marks": [],
+          "text": "Kan brukes med eller uten hjul",
+          "_key": "9e1c5d5cda3e0",
+          "_type": "span"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet"
+    },
+    {
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal",
+      "_key": "aa266464ec9b",
+      "_type": "block",
+      "children": [
+        {
+          "text": "Passer alle våre panelovner",
+          "_key": "1ede2b0ef1530",
+          "_type": "span",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "children": [
+        {
+          "marks": [],
+          "text": "2 stk/pk",
+          "_key": "15323fd5f9de0",
+          "_type": "span"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal",
+      "_key": "3fa1b7cc3ed1"
+    }
+  ],
+  "name": "Ben med hjul for 20 cm høye ovner",
+  "category": "tilbehør",
+  "image": {
+    "_type": "image",
+    "asset": {
+      "_ref": "image-26cb0c86e8a266aba0541e64d585b47c71150c9c-800x800-png",
+      "_type": "reference"
+    }
+  },
+  "_createdAt": "2024-07-09T12:17:46.000Z",
+  "_rev": "9InmsDqKvs8Ix8K0ChtzPd",
+  "_type": "product",
+  "created_at": "2024-07-09T12:50:07.405Z",
+  "updated_at": "2024-07-09T12:51:08.212Z",
+  "id": "a62df1e9-5253-41dc-b562-795d278ea8c9"
+}

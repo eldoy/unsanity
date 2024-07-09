@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/eldoy/unsanity#readme",
   "dependencies": {
+    "@portabletext/to-html": "^2.0.13",
     "@sanity/image-url": "^1.0.2"
   },
   "devDependencies": {
